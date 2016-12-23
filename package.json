@@ -1,0 +1,17 @@
+{
+  "name": "datjs",
+  "version": "0.0.0",
+  "description": "A double array trie implementation",
+  "main": "dat.js",
+  "devDependencies": {
+    "mocha": "=1.9.0",
+    "expect.js": "=0.2.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": ["trie", "double array trie", "datrie", "dtrie"],
+  "repository": "https://github.com/koreandaniel/DAT.js.git",
+  "authors": ["Daniel Kim <cellodan.kim@gmail.com> (http://www.perpetuoinnovation.com)"],
+  "license": "MIT"
+}
