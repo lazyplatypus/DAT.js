@@ -49,11 +49,11 @@ data.insert('dudes');
 ```
 ####Query Data
 ```javascript
-trie.contains('redundant);
+trie.contains('redundant');
 trie.contains('eggs');
 ```
 ####Delete Data
 ```javascript
-trie.delete('rambunctious);
+trie.delete('rambunctious');
 trie.delete('pies');
 ```
